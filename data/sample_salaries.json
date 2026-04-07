@@ -1,0 +1,18 @@
+{
+  "description": "Mock dataset of 50 startup employee salaries for 2024. Distribution is intentionally skewed — the majority of staff earn modest wages while a small group of founders and executives earn disproportionately large compensation packages.",
+  "currency": "USD",
+  "year": 2024,
+  "salaries": [
+    38000, 41000, 43500, 44000, 46000,
+    47000, 49500, 50000, 52000, 53000,
+    55000, 57000, 59000, 61000, 63000,
+    64500, 66000, 68000, 71000, 73000,
+    74000, 77000, 79000, 81000, 83000,
+    86000, 89000, 91000, 94000, 97000,
+    99000, 103000, 108000, 112000, 118000,
+    125000, 135000, 148000, 162000, 178000,
+    195000, 225000, 268000, 315000, 390000,
+    510000, 720000, 1100000, 3200000, 11500000
+  ],
+  "note": "Salaries span from entry-level operations staff ($38k) up to the founding CEO ($11.5M including equity valuation). The top 5 earners are C-level executives, reflecting the extreme pay disparity common in early-stage tech startups."
+}
